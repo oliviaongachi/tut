@@ -1,5 +1,4 @@
-Reach
-CircleCI Build Status GitHub License Docs Discord Twitter Follow Subreddit subscribers
+REACH
 
 We are building the next generation blockchain development platform that will completely transform the paradigm of decentralized application (DApp) development. DApps have enormous potential, but are impractical today because of barriers that have kept blockchain development risky and limited to specialists, like cryptographers. The Reach platform is a comprehensive environment that enables junior developers to build useful and safe DApps without years of experience and easily deploy them on a variety of different blockchain networks.
 
